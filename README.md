@@ -1,3 +1,3 @@
 # Open Source MBA
 
-My Journey
+A mostly free MBA curriculum for the working professional.
