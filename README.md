@@ -23,6 +23,7 @@ A DIY MBA curriculum tailored to professionals in the asset management field.
 ### Special Topics
 - [Real Assets](#Real-Assets)
 - [Financial Plannning]
+- [Financial Risk Management]
 
 ### Other
 - [Helpful Links](#Helpful-Links)
