@@ -6,6 +6,7 @@ A DIY MBA curriculum for the working professional.
 
 - [Accounting](#Accounting)
 - [Finance](#Finance)
+- [Other](#Other)
 
 ### Accounting
 
@@ -17,3 +18,5 @@ A DIY MBA curriculum for the working professional.
 | [Example 2]                                           |        |          |
 
 ### Finance
+
+### Other
