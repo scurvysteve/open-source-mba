@@ -18,7 +18,7 @@ A DIY MBA curriculum tailored to professionals in the asset management field.
 - [History]
 - [Managing Yourself]
 - [Psychology]
-- [Statistics & Data Analysis]
+- [Data Analysis, Operations, Information, and Decisions]
 
 ### Special Topics
 - [Real Estate](#Real-Estate)
