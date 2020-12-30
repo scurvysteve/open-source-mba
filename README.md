@@ -1,1 +1,1 @@
-# open-source-mba
+# Open Source MBA
