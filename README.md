@@ -2,6 +2,6 @@
 
 A DIY MBA curriculum for the working professional.
 
-# Contents
+## Table of Contents
 
 [ ]
