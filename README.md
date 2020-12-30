@@ -11,6 +11,8 @@ A DIY MBA curriculum tailored for a professional in the asset management field.
 - [Finance](#Finance)
 - [Other](#Other)
 
+### Ongoing
+
 ### Accounting
 
 [ ]
