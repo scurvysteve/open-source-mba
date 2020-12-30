@@ -9,7 +9,7 @@ A DIY MBA curriculum tailored to professionals in the asset management field.
 
 ### Core MBA Subjects
 - [Accounting](#Accounting)
-- [Finance & Investing](#Finance-&-Investing)
+- [Finance & Investing](#Finance--&--Investing)
 - [Economics]
 - [Marketing]
 - [Management, Leadership & Strategy]
