@@ -16,7 +16,7 @@ A DIY MBA curriculum tailored to professionals in the asset management field.
 - [Communication & Negotiation]
 - [Legal, Taxes, and Ethics]
 - [History]
-- [Managing Yourself]
+- [Managing Yourself](#Managing-Yourself)
 - [Psychology]
 - [Data Analysis, Operations, Information, and Decisions]
 
@@ -46,6 +46,13 @@ A DIY MBA curriculum tailored to professionals in the asset management field.
 | [Example 2]                                           |        |          |
 
 ## Finance
+
+## Managing Yourself
+
+| Books                                               | Status | Evidence |
+| :---------------------------------------------------- | :----: | :------: |
+| [So Good They Can't Ignore You](https://www.calnewport.com/books/so-good/)           | Reading |          |
+|                                            |        |          |
 
 ## Real Assets
 
