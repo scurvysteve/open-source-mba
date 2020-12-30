@@ -20,9 +20,9 @@ A DIY MBA curriculum tailored to professionals in the asset management field.
 
 | Exams                                               | Status | Evidence |
 | :---------------------------------------------------- | :----: | :------: |
-| [Level I]                                           | [Complete] |          |
-| [Level II]                                           | [In Progress]       |          |
-| [Level III]                                           | [TBD] |          |
+| Level I                                        | Complete | CFA Institute Exam Results |
+| Level II                                        | In Progress       |          |
+| Level III                                         |  |          |
 
 ## Accounting
 
