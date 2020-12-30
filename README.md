@@ -4,4 +4,4 @@ A DIY MBA curriculum for the working professional.
 
 ## Table of Contents
 
-- [Accounting]
+- [Accounting](#Accounting)
