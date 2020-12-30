@@ -24,7 +24,6 @@ A DIY MBA curriculum tailored to professionals in the asset management field.
 - [Real Assets](#Real-Assets)
 - [Financial Plannning]
 
-
 ### Other
 - [Helpful Links](#Helpful-Links)
 
