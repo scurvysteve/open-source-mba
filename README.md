@@ -21,7 +21,9 @@ A DIY MBA curriculum tailored to professionals in the asset management field.
 - [Data Analysis, Operations, Information, and Decisions]
 
 ### Special Topics
-- [Real Estate](#Real-Estate)
+- [Real Assets](#Real-Assets)
+- [Financial Plannning]
+
 
 ### Other
 - [Helpful Links](#Helpful-Links)
@@ -45,6 +47,6 @@ A DIY MBA curriculum tailored to professionals in the asset management field.
 
 ## Finance
 
-## Real Estate
+## Real Assets
 
 ## Helpful Links
