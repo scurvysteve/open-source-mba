@@ -1,6 +1,6 @@
 # Open Source MBA - Version 1.0
 
-A DIY MBA curriculum for the working professional.
+A DIY MBA curriculum tailored for a professional in the investment management field.
 
 ## Table of Contents
 
