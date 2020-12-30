@@ -5,6 +5,7 @@ A DIY MBA curriculum tailored to professionals in the asset management field.
 ## Table of Contents
 
 ### Pre-Requisites
+- [CFA Curriculum](#CFA-Curriculum)
 
 ### Core MBA Subjects
 - [Accounting](#Accounting)
@@ -14,6 +15,8 @@ A DIY MBA curriculum tailored to professionals in the asset management field.
 - [Real Estate](#Real-Estate)
 
 ### Other
+
+## CFA Curriculum
 
 ## Accounting
 
