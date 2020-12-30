@@ -18,10 +18,11 @@ A DIY MBA curriculum tailored to professionals in the asset management field.
 
 ## CFA Curriculum
 
-| Courses                                               | Status | Evidence |
+| Exams                                               | Status | Evidence |
 | :---------------------------------------------------- | :----: | :------: |
-| [Example 1]                                           |        |          |
-| [Example 2]                                           |        |          |
+| [Level I]                                           | [Complete] |          |
+| [Level II]                                           | [In Progress]       |          |
+| [Level III]                                           | [TBD] |          |
 
 ## Accounting
 
