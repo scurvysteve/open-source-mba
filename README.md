@@ -47,6 +47,11 @@ A DIY MBA curriculum tailored to professionals in the asset management field.
 
 ## Finance
 
+| Books                                               | Status | Evidence |
+| :---------------------------------------------------- | :----: | :------: |
+| [Berkshire Shareholder Letters](https://www.berkshirehathaway.com/letters/letters.html)    | Reading |        |
+|                                            |        |          |
+
 ## Managing Yourself
 
 | Books                                               | Status | Evidence |
