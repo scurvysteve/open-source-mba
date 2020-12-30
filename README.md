@@ -14,5 +14,6 @@ A DIY MBA curriculum for the working professional.
 | Courses                                               | Status | Evidence |
 | :---------------------------------------------------- | :----: | :------: |
 | [Example 1]                                           |        |          |
+| [Example 2]                                           |        |          |
 
 ### Finance
