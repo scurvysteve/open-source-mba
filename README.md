@@ -14,7 +14,7 @@ A DIY MBA curriculum tailored to professionals in the asset management field.
 - [Marketing]
 - [Management, Leadership & Strategy]
 - [Communication & Negotiation]
-- [Legal & Ethics]
+- [Legal, Taxes, and Ethics]
 - [History]
 - [Managing Yourself]
 - [Psychology]
