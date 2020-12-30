@@ -12,9 +12,9 @@ A DIY MBA curriculum tailored to professionals in the asset management field.
 - [Finance](#Finance)
 - [Economics]
 - [Marketing]
-- [Leadership & Strategy]
+- [Management, Leadership & Strategy]
 - [Communication & Negotiation]
-- [Ethics]
+- [Legal & Ethics]
 - [History]
 - [Managing Yourself]
 - [Psychology]
