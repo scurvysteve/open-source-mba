@@ -1,12 +1,12 @@
 # Open Source MBA - Version 1.0
 
-A DIY MBA curriculum tailored for a professional in the investment management field.
+A DIY MBA curriculum tailored for a professional in the asset management field.
 
 ## Table of Contents
 
 ### Pre-Requisites
 
-### Core Subjects
+### Core MBA Subjects
 - [Accounting](#Accounting)
 - [Finance](#Finance)
 - [Other](#Other)
