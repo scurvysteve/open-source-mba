@@ -4,6 +4,9 @@ A DIY MBA curriculum for the working professional.
 
 ## Table of Contents
 
+### Pre-Requisites
+
+### Core Subjects
 - [Accounting](#Accounting)
 - [Finance](#Finance)
 - [Other](#Other)
