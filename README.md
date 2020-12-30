@@ -15,6 +15,7 @@ A DIY MBA curriculum tailored to professionals in the asset management field.
 - [Real Estate](#Real-Estate)
 
 ### Other
+- [Helpful Links](#Helpful-Links)
 
 ## CFA Curriculum
 
@@ -36,3 +37,5 @@ A DIY MBA curriculum tailored to professionals in the asset management field.
 ## Finance
 
 ## Real Estate
+
+## Other
