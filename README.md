@@ -1,6 +1,6 @@
 # Open Source MBA - Version 1.0
 
-A DIY MBA curriculum tailored for a professional in the asset management field.
+A DIY MBA curriculum tailored to professionals in the asset management field.
 
 ## Table of Contents
 
