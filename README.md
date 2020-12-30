@@ -38,4 +38,4 @@ A DIY MBA curriculum tailored to professionals in the asset management field.
 
 ## Real Estate
 
-## Other
+## Helpful Links
