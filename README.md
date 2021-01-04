@@ -27,6 +27,7 @@ A DIY MBA curriculum tailored to professionals in the asset management field.
 
 ### Other
 - [Helpful Links](#Helpful-Links)
+- [Podcasts](#Podcasts)
 
 ## CFA Curriculum
 
@@ -62,3 +63,5 @@ A DIY MBA curriculum tailored to professionals in the asset management field.
 ## Real Assets
 
 ## Helpful Links
+
+## Podcasts
