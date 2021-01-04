@@ -1,3 +1,4 @@
 # So Good They Can't Ignore You (Cal Newport)
 
-### Test
+### Steps for crafting a fulfilling career:
+### - Step 1
