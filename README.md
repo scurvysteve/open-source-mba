@@ -57,7 +57,7 @@ A DIY MBA curriculum tailored to professionals in the asset management field.
 
 | Books                                               | Status | Evidence |
 | :---------------------------------------------------- | :----: | :------: |
-| [So Good They Can't Ignore You](https://www.calnewport.com/books/so-good/)           | Read | [Takeaways](./so-good.md) |
+| [So Good They Can't Ignore You](https://www.calnewport.com/books/so-good/)           | Completed | [Takeaways](./so-good.md) |
 |                                            |        |          |
 
 ## Real Assets
