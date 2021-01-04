@@ -65,3 +65,4 @@ A DIY MBA curriculum tailored to professionals in the asset management field.
 ## Helpful Links
 
 ## Podcasts
+- [The Acquirers Podcast](https://open.spotify.com/show/4XKvjmFiZLxWZ58vBfT4v9)
